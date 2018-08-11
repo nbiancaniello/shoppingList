@@ -1,0 +1,19 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main{
+    margin: 2% 10%;
+    border: 2%;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+    font: bold;
+    font-weight: 400;
+}
+
+input{
+    margin: 0% 1%;
+}
